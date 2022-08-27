@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "Java Robot based on Lego EV3 system"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate"
+permalink: /Project Experience/Java Robot based on Lego EV3 system
+venue: "Royal Holloway University of London, Computer Science"
+date: 2022-03-01
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Benefits
 ======
+During this project I learned how to cooperate with teammates and how to lead teammates to fight for a same target. In the meantime, I improved my java skills epically in my coding logic thinking. Understand how to use API
+and how to make a big project working efficiency.
 
-Heading 2
-======
 
-Heading 3
+Conclusion
 ======
+A lovely robot who can map the boundary by himself and find an item on
+the map was made with the cooperation of our group. It’s a challenge to my coding skill, logical thinking and talking, and cooperation abilities as well.
+
+
